@@ -41,7 +41,7 @@ end
 
 # Email permutations from
 # first_name, last_name, domain
-def permutate(first_name, last_name, domain)
+def permutate(timothy, ericson, zagster.com)
 
   first_initial = first_name[0]
   last_initial = last_name[0]
